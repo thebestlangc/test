@@ -1,1 +1,2 @@
-oooo my test for checkout on commit
+
+sss oooo my test for checkout on commit
